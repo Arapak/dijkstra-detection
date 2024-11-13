@@ -1,0 +1,9 @@
+**/__pycache__
+**/venv
+*.gob
+*.keras
+data/*
+!data/.gitkeep
+preprocessed_data/*
+!preprocessed_data/.gitkeep
+pull_codes
